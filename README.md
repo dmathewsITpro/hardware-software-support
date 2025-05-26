@@ -28,4 +28,12 @@
 - Performed hardware replacements and upgrades including **RAM**, **HDD/SSD**, **optical drives**, and **modems**.  
 - Installed and configured **Microsoft Office**, **Adobe software**, and utility programs for performance tuning.
 
+## 📌 Summary
+
+These professional experiences reinforce:
+- My hands-on familiarity with **enterprise hardware/software** in both **Mac** and **PC** environments.
+- My practical understanding of **networking**, **device deployment**, and **client support**.
+- My ability to **communicate technical knowledge** effectively as an instructor, blending education with industry-aligned tools and workflows.
+
+This blended background positions me uniquely to bridge **technical knowledge** with **user-centric support** in any IT role.
 ---
